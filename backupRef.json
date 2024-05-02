@@ -1,0 +1,246 @@
+{
+	"displayName": "DOM HTML",
+	"skills": [
+		{
+			"icon": "",
+			"id": 4,
+			"name": "HTML",
+			"parents": [],
+			"childs": [
+				{
+					"id": 6
+				},
+				{
+					"id": 5
+				}
+			],
+			"fillColor": "#007bff",
+			"posX": 549.1018860715989,
+			"posY": 24.36347093486205
+		},
+		{
+			"icon": "",
+			"id": 5,
+			"name": "HEAD",
+			"parents": [
+				{
+					"id": 4
+				}
+			],
+			"childs": [
+				{
+					"id": 7
+				}
+			],
+			"fillColor": "#007bff",
+			"posX": 344.90972735742806,
+			"posY": 153.5990144248437
+		},
+		{
+			"icon": "",
+			"id": 6,
+			"name": "BODY",
+			"parents": [
+				{
+					"id": 4
+				}
+			],
+			"childs": [
+				{
+					"id": 8
+				}
+			],
+			"fillColor": "#007bff",
+			"posX": 732.6163578273728,
+			"posY": 161.35314703424266
+		},
+		{
+			"icon": "",
+			"id": 7,
+			"name": "TITLE",
+			"parents": [
+				{
+					"id": 5
+				}
+			],
+			"childs": [],
+			"fillColor": "#007bff",
+			"posX": 167.857032776153,
+			"posY": 286.7116242195248
+		},
+		{
+			"icon": "",
+			"id": 8,
+			"name": "DIV",
+			"parents": [
+				{
+					"id": 6
+				}
+			],
+			"childs": [
+				{
+					"id": 9
+				},
+				{
+					"id": 10
+				},
+				{
+					"id": 11
+				}
+			],
+			"fillColor": "#007bff",
+			"posX": 899.3302089294492,
+			"posY": 284.1269133497252
+		},
+		{
+			"icon": "",
+			"id": 9,
+			"name": "P",
+			"parents": [
+				{
+					"id": 8
+				}
+			],
+			"childs": [],
+			"fillColor": "#007bff",
+			"posX": 1100.4131719509879,
+			"posY": 151.74057357281368
+		},
+		{
+			"icon": "",
+			"id": 10,
+			"name": "P",
+			"parents": [
+				{
+					"id": 8
+				}
+			],
+			"childs": [],
+			"fillColor": "#007bff",
+			"posX": 1174.5303774243117,
+			"posY": 280.3762057512319
+		},
+		{
+			"icon": "",
+			"id": 11,
+			"name": "TABLE",
+			"parents": [
+				{
+					"id": 8
+				}
+			],
+			"childs": [
+				{
+					"id": 12
+				},
+				{
+					"id": 13
+				}
+			],
+			"fillColor": "#007bff",
+			"posX": 898.9806675532295,
+			"posY": 424.5092040351527
+		},
+		{
+			"icon": "",
+			"id": 12,
+			"name": "TR",
+			"parents": [
+				{
+					"id": 11
+				}
+			],
+			"childs": [
+				{
+					"id": 15
+				},
+				{
+					"id": 14
+				}
+			],
+			"fillColor": "#007bff",
+			"posX": 684.7797529359684,
+			"posY": 541.9230387142437
+		},
+		{
+			"icon": "",
+			"id": 13,
+			"name": "TR",
+			"parents": [
+				{
+					"id": 11
+				}
+			],
+			"childs": [
+				{
+					"id": 16
+				},
+				{
+					"id": 17
+				}
+			],
+			"fillColor": "#007bff",
+			"posX": 1119.528275936927,
+			"posY": 533.989671506197
+		},
+		{
+			"icon": "",
+			"id": 14,
+			"name": "TH",
+			"parents": [
+				{
+					"id": 12
+				}
+			],
+			"childs": [],
+			"fillColor": "#007bff",
+			"posX": 572.1259385817052,
+			"posY": 651.4035061852883
+		},
+		{
+			"icon": "",
+			"id": 15,
+			"name": "TH",
+			"parents": [
+				{
+					"id": 12
+				}
+			],
+			"childs": [],
+			"fillColor": "#007bff",
+			"posX": 800.60691417345,
+			"posY": 648.2301593020695
+		},
+		{
+			"icon": "",
+			"id": 16,
+			"name": "TD",
+			"parents": [
+				{
+					"id": 13
+				}
+			],
+			"childs": [],
+			"fillColor": "#007bff",
+			"posX": 1236.942110616019,
+			"posY": 648.2301593020695
+		},
+		{
+			"icon": "",
+			"id": 17,
+			"name": "TD",
+			"parents": [
+				{
+					"id": 13
+				}
+			],
+			"childs": [],
+			"fillColor": "#007bff",
+			"posX": 1003.7011146994455,
+			"posY": 654.5768530685065
+		}
+	],
+	"xOffset": 119.4179649207424,
+	"yOffset": 46.45332473418142,
+	"scale": 0.6302494097246091
+}
